@@ -1,5 +1,5 @@
 - 🐴 eu amo cavalo
-- 👋 Hi, I’m @Goomesfer
+- 👋 Hi, I’m ***@Goomesfer***
 - 👀 eu estou interessado a programar novas linguagens 
 - 🌱 eu estou aprendendo recentemente a linguagem de javascript e scrat
 
